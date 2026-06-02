@@ -1,7 +1,4 @@
 <div align="center">
-
-# ⌨️ About Me
-
 <pre align="center" style="font-family: monospace; line-height: 1.2; font-weight: bold; background: #0d1117; padding: 15px; border-radius: 8px; color: #a78bfa; overflow-x: auto; display: block; white-space: pre;">
  ___    ___ _______   ________   ________  ___  ________  ________      
 |\  \  /  /|\  ___ \ |\   ___  \|\   __  \|\  \|\   __  \|\   ___  \    
@@ -14,15 +11,11 @@
                                                                         
                                                                         
 </pre>
-
-> **"Finding the point where logic bends."**
-_Cybersecurity Enthusiast & Backend Developer_
-
 </div>
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -38,19 +31,6 @@ _Cybersecurity Enthusiast & Backend Developer_
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="ElasticSearch" />
-</p>
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xenpian&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xenpian&theme=radical&hide_border=true" width="48%" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenpian&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%" alt="Languages" />
 </p>
 
 ---
