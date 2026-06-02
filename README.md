@@ -1,5 +1,5 @@
 <div align="center">
-<pre align="center" style="font-family: monospace; line-height: 1.2; font-weight: bold; background: #0d1117; padding: 15px; border-radius: 8px; color: #a78bfa; overflow-x: auto; display: block; white-space: pre;">
+<pre align="center" style="font-family: monospace; line-height: 1.2; font-weight: bold; background: #0d1117; padding: 15px; color:red; border-radius: 8px; color: #a78bfa; overflow-x: auto; display: block; white-space: pre;">
  ___    ___ _______   ________   ________  ___  ________  ________      
 |\  \  /  /|\  ___ \ |\   ___  \|\   __  \|\  \|\   __  \|\   ___  \    
 \ \  \/  / | \   __/|\ \  \\ \  \ \  \|\  \ \  \ \  \|\  \ \  \\ \  \   
