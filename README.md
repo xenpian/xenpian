@@ -1,15 +1,60 @@
+<div align="center">
+
+# ⌨️ About Me
+
+<pre align="center" style="font-family: monospace; line-height: 1.2; font-weight: bold; background: #0d1117; padding: 15px; border-radius: 8px; color: #a78bfa; overflow-x: auto; display: block; white-space: pre;">
+ \· . _ .·/  \·. _ . ·/'      .· ´ ¯ ` ·.‚                    \· . _ . ·/  \· . _ . · ´ ¯ ` ·.° .· ´ ¯ ` ·.   .· ´ ¯ ` ·.                \· . _ . ·/ 
+  '\       `·..·´     '/      '/         o  |'       \· . _ .·'/ /        /'    '\               o |‚ `· . _ . ·´  /·´¯ ` .    \   \· . _ .·'/ /        /'  
+    \                 \      |    :· . _ .·         |        \/        /       '|      |`· . _ . ´  \· . _ . ·/  .· ´ ¯ `     '|‘  |        \/        /    
+    /       .--.       '\'    '\    `· . _ . -·-.‚ '  |       '|\.·´ ¯ `·\       '|      '\             |        '|‘ | o           /°  |       '|\.·´ ¯ `·\    
+ ' /·´ ¯ `· \ / ·´ ¯ ` ·\     `· . _ . ·´ ¯ `·\  /·´ ¯ ` ·\                '/· ´ ¯ `·\    '      /· ´ ¯ ` ·\  `· . _ . · ´    /·´ ¯ ` ·\              
+</pre>
+
+> **"Finding the point where logic bends."**
+_Cybersecurity Enthusiast & Backend Developer_
+
+</div>
+
+---
+
+### 💻 Tech Stack
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
 </p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="ElasticSearch" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xenpian&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xenpian&theme=radical&hide_border=true" width="48%" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenpian&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%" alt="Languages" />
+</p>
+
+---
+
+<div align="center">
+
+### ☕ Support & Connect
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xenpian)
+
+[![](https://visitcount.itsvg.in/api?id=xenpian&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
