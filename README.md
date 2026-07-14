@@ -27,7 +27,7 @@ Outside of programming, I'm interested in Linux, networking, distributed systems
 ## Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,clion,pycharm,neovim,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,clion,pycharm,neovim,postman,antigravity" />
 </p>
 
 ---
