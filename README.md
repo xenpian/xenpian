@@ -1,45 +1,66 @@
-<div align="center">
-<pre align="center" style="font-family: monospace; line-height: 1.2; font-weight: bold; background: #0d1117; padding: 15px; color:red; border-radius: 8px; color: #a78bfa; overflow-x: auto; display: block; white-space: pre;">
- ___    ___ _______   ________   ________  ___  ________  ________      
-|\  \  /  /|\  ___ \ |\   ___  \|\   __  \|\  \|\   __  \|\   ___  \    
-\ \  \/  / | \   __/|\ \  \\ \  \ \  \|\  \ \  \ \  \|\  \ \  \\ \  \   
- \ \    / / \ \  \_|/_\ \  \\ \  \ \   ____\ \  \ \   __  \ \  \\ \  \  
-  /     \/   \ \  \_|\ \ \  \\ \  \ \  \___|\ \  \ \  \ \  \ \  \\ \  \ 
- /  /\   \    \ \_______\ \__\\ \__\ \__\    \ \__\ \__\ \__\ \__\\ \__\
-/__/ /\ __\    \|_______|\|__| \|__|\|__|     \|__|\|__|\|__|\|__| \|__|
-|__|/ \|__|                                                             
-                                                                        
-                                                                        
-</pre>
-</div>
+# Xen
+
+Backend developer focused on building reliable software, networking tools, and high-performance systems.
 
 ---
 
-### Tech Stack
+## About
 
-<p align="left">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
+I mainly work with C++, Go and Python, building backend services, command-line utilities and infrastructure-related projects. Most of my work revolves around performance, simplicity and maintainability rather than large frameworks.
+
+Outside of programming, I'm interested in Linux, networking, distributed systems and low-level software.
+
+---
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,go,python,javascript,bash" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="ElasticSearch" />
+## Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,nginx,mongodb,linux,git,github" />
+</p>
+
+## Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,clion,pycharm,neovim,postman" />
 </p>
 
 ---
 
-<div align="center">
+## GitHub Statistics
 
-### ☕ Support & Connect
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/xenpian)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xenpian&theme=github_dark&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=xenpian&theme=github-dark&hide_border=true" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=xenpian&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenpian&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-</div>
+---
+
+## Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xenpian&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+If you're interested in collaborating or discussing a project, feel free to reach out.
+
+<a href="https://buymeacoffee.com/xenpian">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=xenpian&style=flat-square" />
