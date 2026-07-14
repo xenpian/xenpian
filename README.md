@@ -21,7 +21,7 @@ Outside of programming, I'm interested in Linux, networking, distributed systems
 ## Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,nginx,mongodb,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,nginx,mongodb,linux,git,github,electron,nodejs" />
 </p>
 
 ## Development Tools
