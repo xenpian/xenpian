@@ -1,6 +1,6 @@
 # xenpian
 
-Backend developer focused on building reliable software, networking tools, and high-performance systems.
+Backend and frontend developer focused on building reliable software, networking tools, and high-performance systems.
 
 ---
 
