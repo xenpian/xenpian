@@ -42,13 +42,7 @@ Outside of programming, I'm interested in Linux, networking, distributed systems
 
 ---
 
-## Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xenpian&theme=github-dark&hide_border=true" />
-</p>
-
----
+ 
 
 ## Contact
 
